@@ -1,2 +1,2 @@
 # Slacyon
-Slacyon: an Essentials Plugin for PocketMine-MP.
+![Alt text](slacyon.png?raw=true "Title")
